@@ -1,0 +1,45 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+ 
+}
+
+.logo{
+  height: 20rem;
+  width: 50rem;
+}
+
+.input-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-input{
+  margin: 10px;
+  width: 50vw;
+  height: 5vh;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.submit{
+ 
+  height: 5.8vh;
+}
+
+.reset{
+
+  height:  5.8vh;
+  width: 4rem;
+  margin: 10px;
+}
+
+.camel-case{
+  text-align: center;
+  font-size: 4rem;
+  color: red;
+}
+
